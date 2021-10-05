@@ -1,1 +1,2 @@
-# Choky
+# selfbot
+PRIVAT
